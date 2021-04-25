@@ -1,6 +1,7 @@
 <?php
 
 /** PRUEBA DE FUNCIONAMIENTO DE RESPOITORIO **/
+/** SEGUNA PRUEBA **/
 
 /**
 * Clase que se encarga de gestionar el nombre, apellidos y edad de una persona.
